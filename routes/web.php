@@ -17,10 +17,15 @@ Route::get('/', function () {
     return view('pages/landingPage');
 });
 
-Route::get('/download/{id}',function($id){
+// Route::get('/download/{id}',function($id){
+//     $file = public_path()."/files/".$id.".pdf";
+//     $headers = array(
+//         'Content-Type: application/pdf',
+//     );
+//     return response()->download($file, 'kodegiri.pdf', $headers);
+// });
+
+Route::get('/review-pdf/{id}',function($id){
     $file = public_path()."/files/".$id.".pdf";
-    $headers = array(
-        'Content-Type: application/pdf',
-    );
-    return response()->download($file, 'kodegiri.pdf', $headers);
+    return response()->file($file);
 });

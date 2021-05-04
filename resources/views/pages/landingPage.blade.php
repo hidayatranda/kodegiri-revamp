@@ -197,7 +197,7 @@
                             mobile phone. Available in
                             sampAideal Platform
                         </p>
-                        <a href="{{ url('/download/kodegiri') }}" class="mytext-second"><i
+                        <a href="{{ url('/review-pdf/kodegiri') }}" class="mytext-second" target="_blank"><i
                                 class="fas fa-download fa-fw"></i>Download</a>
                         <img src="{{ asset('images/services/think.png') }}" alt="Kode Sales Training Image"
                             class="img-fluid rounded-circle my-service-img">
@@ -213,7 +213,7 @@
                             effort to find one, we will
                             find them for you.
                         </p>
-                        <a href="{{ url('/download/kodegiri') }}" class="mytext-second"><i
+                        <a href="{{ url('/review-pdf/kodegiri') }}" class="mytext-second"><i
                                 class="fas fa-download fa-fw"></i>Download</a>
                         <img src="{{ asset('images/services/think.png') }}" alt="Kode Sales Training Image"
                             class="img-fluid rounded-circle my-service-img">
@@ -232,7 +232,7 @@
                             and training ever with 23
                             years of experience.
                         </p>
-                        <a href="{{ url('/download/kodegiri') }}" class="mytext-second"><i
+                        <a href="{{ url('/review-pdf/kodegiri') }}" class="mytext-second"><i
                                 class="fas fa-download fa-fw"></i>Download</a>
                         <img src="{{ asset('images/services/think.png') }}" alt="Kode Sales Training Image"
                             class="img-fluid rounded-circle my-service-img">
@@ -249,7 +249,7 @@
                             be connected, we are there
                             for you.
                         </p>
-                        <a href="{{ url('/download/kodegiri') }}" class="mytext-second"><i
+                        <a href="{{ url('/review-pdf/kodegiri') }}" class="mytext-second"><i
                                 class="fas fa-download fa-fw"></i>Download</a>
                         <img src="{{ asset('images/services/think.png') }}" alt="Kode Sales Training Image"
                             class="img-fluid rounded-circle my-service-img">
@@ -269,7 +269,7 @@
                             experience will help be a
                             beneficial add for you.
                         </p>
-                        <a href="{{ url('/download/kodegiri') }}" class="mytext-second"><i
+                        <a href="{{ url('/review-pdf/kodegiri') }}" class="mytext-second"><i
                                 class="fas fa-download fa-fw"></i>Download</a>
                         <img src="{{ asset('images/services/think.png') }}" alt="Kode Sales Training Image"
                             class="img-fluid rounded-circle my-service-img">
@@ -293,7 +293,7 @@
                             build it for you from the
                             simplest to the advance
                         </p>
-                        <a href="{{ url('/download/kodegiri') }}" class="mytext-second"><i
+                        <a href="{{ url('/review-pdf/kodegiri') }}" class="mytext-second"><i
                                 class="fas fa-download fa-fw"></i>Download</a>
                         <img src="{{ asset('images/services/think.png') }}" alt="Kode Sales Training Image"
                             class="img-fluid rounded-circle my-service-img">
@@ -312,7 +312,7 @@
                             mobile apps will help you.
 
                         </p>
-                        <a href="{{ url('/download/kodegiri') }}" class="mytext-second"><i
+                        <a href="{{ url('/review-pdf/kodegiri') }}" class="mytext-second"><i
                                 class="fas fa-download fa-fw"></i>Download</a>
                         <img src="{{ asset('images/services/think.png') }}" alt="Kode Sales Training Image"
                             class="img-fluid rounded-circle my-service-img">
@@ -330,7 +330,7 @@
                             and training ever with 23
                             years of experience.
                         </p>
-                        <a href="{{ url('/download/kodegiri') }}" class="mytext-second"><i
+                        <a href="{{ url('/review-pdf/kodegiri') }}" class="mytext-second"><i
                                 class="fas fa-download fa-fw"></i>Download</a>
                         <img src="{{ asset('images/services/think.png') }}" alt="Kode Sales Training Image"
                             class="img-fluid rounded-circle my-service-img">
@@ -346,7 +346,7 @@
                             salesteam works even
                             better than ever
                         </p>
-                        <a href="{{ url('/download/kodegiri') }}" class="mytext-second"><i
+                        <a href="{{ url('/review-pdf/kodegiri') }}" class="mytext-second"><i
                                 class="fas fa-download fa-fw"></i>Download</a>
                         <img src="{{ asset('images/services/think.png') }}" alt="Kode Sales Training Image"
                             class="img-fluid rounded-circle my-service-img">
@@ -366,7 +366,7 @@
                             by make you speak their
                             language and culture.
                         </p>
-                        <a href="{{ url('/download/kodegiri') }}" class="mytext-second"><i
+                        <a href="{{ url('/review-pdf/kodegiri') }}" class="mytext-second"><i
                                 class="fas fa-download fa-fw"></i>Download</a>
                         <img src="{{ asset('images/services/think.png') }}" alt="Kode Sales Training Image"
                             class="img-fluid rounded-circle my-service-img">
@@ -532,7 +532,7 @@
     <h1 class="title text-center mytext-primary">Our Best Value</h1>
     <div class="container">
         <div class="row">
-            <div class="col-md-4 col-12 mb-3">
+            <div class="col-md-4 col-12 mb-3" data-aos="fade-up" data-aos-delay="300">
                 <div class="card" style="min-height: 241px">
                     <div class="card-body">
                         <h5 class="card-title">
@@ -545,7 +545,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-12 mb-3">
+            <div class="col-md-4 col-12 mb-3" data-aos="fade-up" data-aos-delay="400">
                 <div class="card" style="min-height: 241px">
                     <div class="card-body">
                         <h5 class="card-title">
@@ -560,7 +560,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-12 mb-3">
+            <div class="col-md-4 col-12 mb-3" data-aos="fade-up" data-aos-delay="500">
                 <div class="card" style="min-height: 241px">
                     <div class="card-body">
                         <h5 class="card-title">
@@ -933,9 +933,9 @@
 </section>
 
 <section id="contact">
-    <div class="container">
+    <div class="container" data-aos="fade-up">
         <div class="row">
-            <div class=" col-md-5 py-5 col-12">
+            <div class=" col-md-5 py-5 col-12" data-aos="fade-up" data-aos-delay="200">
                 <h1 class="title text-center mytext-primary mb-0" style="font-size: 3em">Contact Us</h1>
 
                 <p class="my-text">
@@ -973,7 +973,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-7 col-12">
+            <div class="col-md-7 col-12" data-aos="fade-up" data-aos-delay="300">
                 <form action="" method="post">
                     <div class="form-group form-container">
                         <div class="form-input">

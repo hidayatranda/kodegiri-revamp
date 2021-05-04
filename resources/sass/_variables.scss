@@ -2,7 +2,7 @@
 $body-bg: #f8fafc;
 
 // Typography
-$font-family-sans-serif: "Nunito", sans-serif;
+$font-family-sans-serif: "Poppins", sans-serif;
 $font-size-base: 0.9rem;
 $line-height-base: 1.6;
 
@@ -23,3 +23,10 @@ $primary-color: #4aa835;
 $second-color: #7ed957;
 $gray-color: #666666;
 $bg-brand: #386b22;
+$bg-body: #fdfdfd;
+
+// Variabel screen
+$small: 575.98px;
+$medium: 767.98px;
+$large: 991.98px;
+$extra: 1199.98px;
